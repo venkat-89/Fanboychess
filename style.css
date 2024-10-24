@@ -66,3 +66,19 @@ button{
 button:hover{
     background-color: rgb(195, 195, 226);
 }
+@media only screen and (max-width: 540px){
+    #saipallavi{
+        height: 150%;
+        width: 100%;
+
+    }   
+    img{
+        height: 650px;
+    }
+    button{
+        margin-left: 70%;
+    }
+    #mytxt{
+        padding: 20px;
+    }
+}
